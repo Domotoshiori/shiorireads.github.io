@@ -1,0 +1,9 @@
+baseURL = 'https://shiorireads.github.io/'
+languageCode = 'zh-cn'
+theme = 'anatole'
+
+[params]
+title = 'JUNE | 六月'
+author = '堂本栞'
+description = '生きているのは暇つぶし'
+
